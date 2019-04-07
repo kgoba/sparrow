@@ -1,0 +1,9 @@
+[submodule "firmware/lib/RadioHead"]
+	path = firmware/lib/RadioHead
+	url = https://github.com/dragino/RadioHead.git
+[submodule "firmware/lib/TinyGPSPlus"]
+	path = firmware/lib/TinyGPSPlus
+	url = https://github.com/mikalhart/TinyGPSPlus.git
+[submodule "firmware/lib/Time"]
+	path = firmware/lib/Time
+	url = https://github.com/PaulStoffregen/Time.git
